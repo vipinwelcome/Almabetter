@@ -1,0 +1,2 @@
+hello this file is for checking ths push command
+this is initially created in vs code only
